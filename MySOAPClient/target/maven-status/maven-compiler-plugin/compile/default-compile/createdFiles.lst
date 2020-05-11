@@ -1,0 +1,11 @@
+com/apple/ws/ObjectFactory.class
+com/apple/ws/EducationService.class
+com/apple/ws/GetAllUserResponse.class
+com/apple/ws/package-info.class
+com/apple/ws/GetAllUser.class
+com/apple/ws/Hello.class
+com/apple/ws/HelloResponse.class
+com/apple/ws/GetUser.class
+com/apple/ws/GetUserResponse.class
+com/apple/ws/EducationService_Service.class
+com/apple/ws/User.class
